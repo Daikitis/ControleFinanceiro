@@ -1,0 +1,35 @@
+c:\users\daikitijunior4142\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SenacPos2015.mdf
+c:\users\daikitijunior4142\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SenacPos2015_log.ldf
+c:\users\daikitijunior4142\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\daikitijunior4142\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\daikitijunior4142\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\daikitijunior4142\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ControleFinDom.csprojResolveAssemblyReference.cache
+c:\users\daikitijunior4142\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.CadastroDespesa.resources
+c:\users\daikitijunior4142\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.CadastroRenda.resources
+c:\users\daikitijunior4142\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Master.resources
+c:\users\daikitijunior4142\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\daikitijunior4142\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ControleFinDom.csproj.GenerateResource.Cache
+c:\users\daikitijunior4142\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\daikitijunior4142\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\daikitijunior4142\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Forms.VisualizarRendas.resources
+E:\POS GRADUACAO\Nelson\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\POS GRADUACAO\Nelson\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\POS GRADUACAO\Nelson\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\POS GRADUACAO\Nelson\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SenacPos2015.mdf
+E:\POS GRADUACAO\Nelson\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\SenacPos2015_log.ldf
+E:\POS GRADUACAO\Nelson\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\POS GRADUACAO\Nelson\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\POS GRADUACAO\Nelson\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ControleFinDom.csprojResolveAssemblyReference.cache
+E:\POS GRADUACAO\Nelson\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Master.resources
+E:\POS GRADUACAO\Nelson\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\POS GRADUACAO\Nelson\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ControleFinDom.csproj.GenerateResource.Cache
+E:\POS GRADUACAO\Nelson\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Forms.CadastroDespesa.resources
+E:\POS GRADUACAO\Nelson\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Forms.CadastroRenda.resources
+E:\POS GRADUACAO\Nelson\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Forms.VisualizarRendas.resources
+E:\POS GRADUACAO\Nelson\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Forms.VisualizarDespesas.resources
+E:\POS GRADUACAO\Nelson\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Forms.BalancoAnual.resources
+E:\POS GRADUACAO\Nelson\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Forms.BalancoSemestral.resources
+E:\POS GRADUACAO\Nelson\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Forms.BalancoMensal.resources
+C:\Users\daikitijunior4142\Source\Repos\ControleFinanceiro\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\daikitijunior4142\Source\Repos\ControleFinanceiro\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\daikitijunior4142\Source\Repos\ControleFinanceiro\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
